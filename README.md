@@ -14,5 +14,4 @@ The Creative Canvas Android application is a feature-rich tool designed for draw
 
 ## Screenshots
 
-![Main Screen](/relative/path/to/img.jpg?raw=true "Optional Title")
-
+![Alt text](https://drive.google.com/file/d/1zq_s5VrtzhdpUNCUixXrQVsSst1QoIlM/view "Optional title")
